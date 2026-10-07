@@ -88,3 +88,9 @@ Please include:
 * Website URL
 * Short description
 * Relevant category
+
+---
+
+## License
+
+This list is provided for informational purposes. Each platform has its own terms, policies, and requirements.
